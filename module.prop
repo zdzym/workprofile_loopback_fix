@@ -3,4 +3,4 @@ name=Android 17 Cross-Profile Loopback Fix
 version=v1.3
 versionCode=4
 author=deepseek
-description=Disables Android 17's cross-profile loopback block (netd eBPF map) once at boot via service.sh. Works on Magisk and KernelSU (including late-load). Reboot restores the default.
+description=Disables Android 17's cross-profile loopback block (netd eBPF map).
